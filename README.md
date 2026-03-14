@@ -16,7 +16,7 @@ The execution pipeline for a single-stage processor
 
 The data path of a five-stage processor
 
-![Alt text](./assets/five_stage_execuion_pipeline.png)
+![Alt text](./assets/five_stage_execution_pipeline.png)
 
 The execution pipeline for a five-stage processor
 
