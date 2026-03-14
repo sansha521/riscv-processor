@@ -4,4 +4,9 @@ Single Stage Processor simulator is in single.py, and Five Stage Processor simul
 
 # single stage processor
 ![Alt text](./single-stage.png)
+
 The data path of a single stage processor
+
+
+
+The execution pipeline for a single stage processor
