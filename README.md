@@ -23,11 +23,7 @@ The execution pipeline for a five-stage processor
 # Results
 ![Alt text](./assets/single_stage_performance_metrics.png)
 
-Single-stage processor performance metrics
-
 ![Alt text](./assets/five_stage_performance_metrics.png)
-
-Five-stage processor performance metrics
 
 # Comparison
 * Single stage has fewer cycles per instruction due to the absence of pipeline overhead. 
